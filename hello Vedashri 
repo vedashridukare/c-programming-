@@ -1,0 +1,7 @@
+#include<studio.h>
+void main()
+{
+ clrscr ();
+ printf("Hello Vedashri");
+ getch();
+}
